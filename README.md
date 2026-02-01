@@ -28,3 +28,5 @@ Event-Driven Programming: Managed complex GUI event handling to ensure a seamles
 The primary challenge of this project was correctly interpreting user input as a mathematical expression. 
 By implementing a stack-based logic for the Shunting-Yard algorithm, I gained deep insights into how data structures are applied in real-world software. 
 This 2-person group project was an excellent exercise in both algorithmic thinking and GUI design.
+
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/308f08f9-828a-41de-840d-5dc55d6946a1" />
