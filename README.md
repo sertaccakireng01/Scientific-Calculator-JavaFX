@@ -1,5 +1,7 @@
 Scientific Calculator (JavaFX & Shunting-Yard Algorithm)
 
+Youtube Video Link of Running Project: https://youtu.be/pv95f203pjc
+
 This is a comprehensive scientific calculator developed as part of my Advanced Java Programming course. 
 The project focuses on handling complex mathematical evaluations through robust algorithms and a clean, responsive user interface, earning a 90% grade.
 
